@@ -129,7 +129,7 @@ _\* They're usually caused by incorrect contract addresses and wrong default gas
 
 - Refactor frontend code to accept other networks besides Mumbai
 - Lazyload for NFTs images and metadata
-- Add support for custom ERC20 tokens as payment (started on [#2](https://github.com/Markkop/nft-marketplace/pull/2))
+- Add support for custom ERC20 tokens as payment (started on [#2](https://github.com/AzzieRobel/nft-marketplace/pull/2))
 
 # Troubleshooting
 
@@ -145,9 +145,3 @@ Reset your Metamask account transaction history.
 Find out more on:  
 https://medium.com/@thelasthash/solved-nonce-too-high-error-with-metamask-and-hardhat-adc66f092cd
 
-# References
-
-- [FreeCodeCamp’s Solidity, Blockchain, and Smart Contract Course](https://www.youtube.com/watch?v=M576WGiDBdQ)
-- [Building a Full Stack NFT Marketplace on Ethereum with Polygon](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
-- [Chainlist.org source code](https://github.com/antonnell/networklist-org)
-- [Import & Test a Popular NFT Smart Contract with Hardhat & Ethers](https://dev.to/jacobedawson/import-test-a-popular-nft-smart-contract-with-hardhat-ethers-12i5)
